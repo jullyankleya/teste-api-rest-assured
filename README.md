@@ -1,1 +1,1 @@
-Este é um repositório contén Testes automatizados da API “Gerenciado Viagens”.
+Este é um repositório contém Testes automatizados da API “Gerenciado Viagens”.
